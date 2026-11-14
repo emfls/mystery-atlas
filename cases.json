@@ -240,5 +240,32 @@
         "https://www.archives.gov/education/lessons/watergate-constitution/chronology.html"
       ]
     ]
+  },
+  {
+    "id": "hexagon",
+    "title": "토성 북극의 육각형",
+    "category": "우주",
+    "status": "세부 논의 중",
+    "place": "토성 · 북극 대기",
+    "year": "카시니 관측",
+    "teaser": "자로 그린 듯한 행성의 무늬. 단단한 구조물이 아니라 움직이는 대기의 패턴.",
+    "claim": "반듯한 기하학적 모양은 인공 구조물을 연상시킬 수 있지만, 모양만으로 제작자나 목적을 추론할 수는 없다.",
+    "facts": [
+      "NASA는 토성 북극 주변의 육각형을 굽이치는 극 제트기류의 모습으로 설명한다.",
+      "카시니 탐사선은 가시광 카메라로 육각형을 관측했다.",
+      "NASA의 관측 영상은 육각형 내부의 구름 움직임을 보여준다."
+    ],
+    "reading": "하나의 정지 화면만 보고 물체의 재질이나 기원을 판단하지 않는 것이 중요하다. 시간에 따른 이동과 측정 장비 정보를 확인하면 인공 벽처럼 보이는 무늬를 대기 현상으로 읽을 수 있다.",
+    "unknown": "제트기류라는 관측적 설명과 형성·지속 메커니즘의 모든 세부가 해결됐다는 주장은 다르다. 이 페이지는 대기 모델을 독립 검증하지 않았으며 북극 사례를 다른 극의 관측에 그대로 적용하지 않는다.",
+    "sources": [
+      [
+        "NASA · Saturn’s Hexagon in Motion",
+        "https://science.nasa.gov/mission/cassini/science/saturn/hexagon-in-motion/"
+      ],
+      [
+        "NASA · Wavy Polar Jet",
+        "https://science.nasa.gov/photojournal/wavy-polar-jet/"
+      ]
+    ]
   }
 ]
